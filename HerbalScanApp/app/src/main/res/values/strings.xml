@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HerbalScan</string>
+    
+    <!-- Splash Screen -->
+    <string name="splash_tagline">Kenali Tanaman Herbal Anda</string>
+    
+    <!-- Auth -->
+    <string name="login_title">Masuk</string>
+    <string name="register_title">Daftar Akun</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Konfirmasi Password</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="phone">Nomor Telepon</string>
+    <string name="login_button">Masuk</string>
+    <string name="register_button">Daftar</string>
+    <string name="dont_have_account">Belum punya akun?</string>
+    <string name="already_have_account">Sudah punya akun?</string>
+    <string name="register_here">Daftar di sini</string>
+    <string name="login_here">Masuk di sini</string>
+    <string name="forgot_password">Lupa Password?</string>
+    
+    <!-- Home -->
+    <string name="home_title">Beranda</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="scan_now">Scan Sekarang</string>
+    <string name="herbal_list">Daftar Herbal</string>
+    <string name="history">Riwayat</string>
+    <string name="profile">Profil</string>
+    <string name="settings">Pengaturan</string>
+    
+    <!-- Scan -->
+    <string name="scan_title">Scan Tanaman</string>
+    <string name="take_photo">Ambil Foto</string>
+    <string name="choose_gallery">Pilih dari Galeri</string>
+    <string name="scan_instruction">Arahkan kamera ke tanaman herbal atau pilih foto dari galeri</string>
+    <string name="start_scan">Mulai Scan</string>
+    
+    <!-- Result -->
+    <string name="result_title">Hasil Deteksi</string>
+    <string name="detected_plant">Tanaman Terdeteksi</string>
+    <string name="confidence">Tingkat Kepercayaan</string>
+    <string name="view_detail">Lihat Detail</string>
+    <string name="scan_again">Scan Lagi</string>
+    <string name="save_result">Simpan Hasil</string>
+    
+    <!-- Herbal List -->
+    <string name="herbal_list_title">Daftar Tanaman Herbal</string>
+    <string name="search_herbal">Cari tanaman herbal…</string>
+    
+    <!-- Herbal Detail -->
+    <string name="herbal_detail_title">Detail Tanaman</string>
+    <string name="latin_name">Nama Latin</string>
+    <string name="description">Deskripsi</string>
+    <string name="benefits">Manfaat</string>
+    <string name="usage">Cara Penggunaan</string>
+    <string name="add_to_favorite">Tambah ke Favorit</string>
+    
+    <!-- Profile -->
+    <string name="profile_title">Profil Saya</string>
+    <string name="edit_profile">Edit Profil</string>
+    <string name="logout">Keluar</string>
+    <string name="logout_confirmation">Apakah Anda yakin ingin keluar?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    
+    <!-- History -->
+    <string name="history_title">Riwayat Deteksi</string>
+    <string name="no_history">Belum ada riwayat deteksi</string>
+    <string name="clear_history">Hapus Riwayat</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Pengaturan</string>
+    <string name="language">Bahasa</string>
+    <string name="notifications">Notifikasi</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="about">Tentang Aplikasi</string>
+    <string name="version">Versi</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_scan">Scan</string>
+    <string name="nav_profile">Profil</string>
+    
+    <!-- Messages -->
+    <string name="error_empty_field">Field tidak boleh kosong</string>
+    <string name="error_invalid_email">Email tidak valid</string>
+    <string name="error_password_mismatch">Password tidak cocok</string>
+    <string name="error_password_short">Password minimal 6 karakter</string>
+    <string name="error_login_failed">Login gagal. Periksa email dan password Anda</string>
+    <string name="success_register">Registrasi berhasil! Silakan login</string>
+    <string name="success_login">Login berhasil</string>
+    <string name="loading">Memuat…</string>
+    <string name="processing">Memproses…</string>
+    
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Batal</string>
+    <string name="save">Simpan</string>
+    <string name="delete">Hapus</string>
+    <string name="edit">Edit</string>
+    <string name="back">Kembali</string>
+</resources>
